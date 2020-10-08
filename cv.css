@@ -1,0 +1,38 @@
+.uno{
+    background-color: white;
+    height: auto;
+}
+.dos{
+    background-color: paleturquoise;
+    max-height: auto;
+}
+h3 {
+    color: mediumaquamarine;
+}
+h4 :hover {
+    color: mediumaquamarine;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+}
+.header{
+    padding: 1%;
+    width: auto;
+    height: 40px;
+    background-color: mediumaquamarine;
+}
+.header{
+    background-color: mediumaquamarine;
+}
+.footer{
+    background-color: mediumaquamarine;
+    width: auto;
+    height: 30px;
+}
+.ico{
+    width: 40px;
+    height: 40px;
+    border-radius: 150%;
+}
